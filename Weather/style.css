@@ -22,7 +22,7 @@ footer {
     width: 100%;
 }
 body{
-    background-color: #212121;
+    background: linear-gradient(135deg, #7f00ff, #e100ff);
 }
 .card{
     width: 90%;
