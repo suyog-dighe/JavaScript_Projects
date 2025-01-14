@@ -4,6 +4,23 @@
     font-family: 'Times New Roman', Times, serif;
     box-sizing: border-box;
 }
+
+header {
+    background: linear-gradient(135deg, #00feba, #5b548a);
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+
+footer {
+    background: linear-gradient(135deg, #5b548a, #00feba);
+    padding: 15px;
+    text-align: center;
+    color: white;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
 body{
     background-color: #212121;
 }
@@ -12,9 +29,9 @@ body{
     max-width: 470px;
     background:linear-gradient(135deg,#00feba,#5b548a);
     color:#fff;
-    margin: 100px auto 0;
+    margin: 40px auto 10px;
     border-radius:20px;
-    padding:40px 35px;
+    padding:30px 25px;
     text-align: center;
 }
 .search{
